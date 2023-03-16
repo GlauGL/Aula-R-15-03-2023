@@ -1,0 +1,21 @@
+# vetor1<-c("a","b","c")
+# print(vetor1)
+# arq1<-read.table(file="C:\\Users\\aluno\\Downloads\\teste2.csv",sep=",",header=TRUE)
+# print(head(arq1))
+# x<-"testo em R"
+# write.table(x,"file1.csv")
+
+#install.packages("readr")
+#library(readr)
+#dados1<- read_csv(file = "teste.csv")
+#print(head(dados1))
+
+#install.packages("readxl")
+#library(readxl)
+#dados2<- read_xlsx("dados1.xlsx")
+#print(head(dados2))
+
+#install.packages("curl")
+#library("curl")
+#arq<-read.csv(curl("https://raw.githubusercontent.com/dourivaljunior/Curso-de-Python/main/arquivo_departamento.csv"))
+#print(head(arq))
